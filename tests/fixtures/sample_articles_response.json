@@ -1,0 +1,54 @@
+{
+  "articleList": [
+    {
+      "articleNo": "2468001234",
+      "complexName": "래미안 원베일리",
+      "tradeTypeName": "전세",
+      "dealOrWarrantPrc": "45000",
+      "rentPrc": "",
+      "exclusiveArea": 84.99,
+      "supplyArea": 112.03,
+      "floorInfo": "12/25",
+      "direction": "남향",
+      "articleFeatureDesc": "깨끗하게 사용한 집입니다",
+      "buildingName": "101동",
+      "hoNo": "1201",
+      "tagList": ["역세권", "학군우수"],
+      "articleConfirmYmd": "2026-04-01"
+    },
+    {
+      "articleNo": "2468005678",
+      "complexName": "래미안 원베일리",
+      "tradeTypeName": "전세",
+      "dealOrWarrantPrc": "72000",
+      "rentPrc": "",
+      "exclusiveArea": 59.96,
+      "supplyArea": 84.82,
+      "floorInfo": "3/25",
+      "direction": "동향",
+      "articleFeatureDesc": "올수리 완료",
+      "buildingName": "102동",
+      "hoNo": "302",
+      "tagList": ["올수리"],
+      "articleConfirmYmd": "2026-04-02"
+    },
+    {
+      "articleNo": "2468009012",
+      "complexName": "래미안 원베일리",
+      "tradeTypeName": "월세",
+      "dealOrWarrantPrc": "10000",
+      "rentPrc": "150",
+      "exclusiveArea": 114.72,
+      "supplyArea": 149.35,
+      "floorInfo": "20/25",
+      "direction": "남서향",
+      "articleFeatureDesc": "",
+      "buildingName": "103동",
+      "hoNo": "",
+      "tagList": [],
+      "articleConfirmYmd": "2026-04-03"
+    }
+  ],
+  "isMoreData": false,
+  "totalCount": 3
+}
