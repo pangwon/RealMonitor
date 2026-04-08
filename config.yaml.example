@@ -1,0 +1,25 @@
+targets:
+  - name: "래미안 원베일리"
+    complex_id: "12345"
+    trade_type: "전세"          # 매매 | 전세 | 월세
+    filters:
+      price_min: 40000          # 만원 단위
+      price_max: 80000
+      area_min: 80              # ㎡
+      area_max: 120
+      floor_min: 5
+      direction: "남"
+
+schedule:
+  interval_minutes: 10          # 모니터링 주기
+
+notification:
+  telegram:
+    enabled: true
+    bot_token: "${TELEGRAM_BOT_TOKEN}"
+    chat_id: "${TELEGRAM_CHAT_ID}"
+  slack:
+    enabled: false
+    webhook_url: "${SLACK_WEBHOOK_URL}"
+  desktop:
+    enabled: true
